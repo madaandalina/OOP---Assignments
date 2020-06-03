@@ -1,0 +1,9 @@
+﻿Petre, Alexandru, 8,9 6 4 5 7
+Apostol, Maria, 4,2 10 5 10 7
+Ghinescu, George, 6,6 7 8 9 10
+Popescu, Marinela, 3,7 10 8
+Tatarescu, Cristian,8,9 5 10 8
+Papdie, Ioana, 3,8 9 9
+Marinescu, Marin,4,7 5 9 9
+Papadopol, Mihaela, 6,10 9 4 7 8
+Alexievici, Petre, 7,5 7 8 9 10

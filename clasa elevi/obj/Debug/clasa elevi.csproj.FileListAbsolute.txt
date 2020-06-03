@@ -1,0 +1,7 @@
+D:\z.semestrul 2\OOP\clasa elevi\clasa elevi\bin\Debug\clasa elevi.exe.config
+D:\z.semestrul 2\OOP\clasa elevi\clasa elevi\bin\Debug\clasa elevi.exe
+D:\z.semestrul 2\OOP\clasa elevi\clasa elevi\bin\Debug\clasa elevi.pdb
+D:\z.semestrul 2\OOP\clasa elevi\clasa elevi\obj\Debug\clasa elevi.csprojAssemblyReference.cache
+D:\z.semestrul 2\OOP\clasa elevi\clasa elevi\obj\Debug\clasa elevi.csproj.CoreCompileInputs.cache
+D:\z.semestrul 2\OOP\clasa elevi\clasa elevi\obj\Debug\clasa elevi.exe
+D:\z.semestrul 2\OOP\clasa elevi\clasa elevi\obj\Debug\clasa elevi.pdb

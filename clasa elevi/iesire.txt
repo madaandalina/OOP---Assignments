@@ -1,0 +1,9 @@
+Petre Alexandru - media: 6,2
+Apostol Maria - media: 6,8
+Marinescu Marin - media: 7,5
+Papadopol Mihaela - media: 7,6
+Alexievici Petre - media: 7,8
+Ghinescu George - media: 8
+Tatarescu Cristian - media: 8
+Popescu Marinela - media: 8,33333333333333
+Papdie Ioana - media: 8,66666666666667
