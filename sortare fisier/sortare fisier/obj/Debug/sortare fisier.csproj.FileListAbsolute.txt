@@ -1,0 +1,7 @@
+D:\z.semestrul 2\OOP\sortare fisier\sortare fisier\bin\Debug\sortare fisier.exe.config
+D:\z.semestrul 2\OOP\sortare fisier\sortare fisier\bin\Debug\sortare fisier.exe
+D:\z.semestrul 2\OOP\sortare fisier\sortare fisier\bin\Debug\sortare fisier.pdb
+D:\z.semestrul 2\OOP\sortare fisier\sortare fisier\obj\Debug\sortare fisier.csprojAssemblyReference.cache
+D:\z.semestrul 2\OOP\sortare fisier\sortare fisier\obj\Debug\sortare fisier.csproj.CoreCompileInputs.cache
+D:\z.semestrul 2\OOP\sortare fisier\sortare fisier\obj\Debug\sortare fisier.exe
+D:\z.semestrul 2\OOP\sortare fisier\sortare fisier\obj\Debug\sortare fisier.pdb
