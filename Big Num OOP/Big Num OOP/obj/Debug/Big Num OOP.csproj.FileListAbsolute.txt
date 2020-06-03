@@ -1,0 +1,7 @@
+D:\z.semestrul 2\OOP\Big Num OOP\Big Num OOP\bin\Debug\Big Num OOP.exe.config
+D:\z.semestrul 2\OOP\Big Num OOP\Big Num OOP\bin\Debug\Big Num OOP.exe
+D:\z.semestrul 2\OOP\Big Num OOP\Big Num OOP\bin\Debug\Big Num OOP.pdb
+D:\z.semestrul 2\OOP\Big Num OOP\Big Num OOP\obj\Debug\Big Num OOP.csprojAssemblyReference.cache
+D:\z.semestrul 2\OOP\Big Num OOP\Big Num OOP\obj\Debug\Big Num OOP.csproj.CoreCompileInputs.cache
+D:\z.semestrul 2\OOP\Big Num OOP\Big Num OOP\obj\Debug\Big Num OOP.exe
+D:\z.semestrul 2\OOP\Big Num OOP\Big Num OOP\obj\Debug\Big Num OOP.pdb
