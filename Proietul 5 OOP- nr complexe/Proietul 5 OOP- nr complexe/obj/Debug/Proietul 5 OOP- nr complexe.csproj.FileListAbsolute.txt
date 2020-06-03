@@ -1,0 +1,7 @@
+D:\z.semestrul 2\OOP\Proietul 5 OOP- nr complexe\Proietul 5 OOP- nr complexe\bin\Debug\Proietul 5 OOP- nr complexe.exe.config
+D:\z.semestrul 2\OOP\Proietul 5 OOP- nr complexe\Proietul 5 OOP- nr complexe\bin\Debug\Proietul 5 OOP- nr complexe.exe
+D:\z.semestrul 2\OOP\Proietul 5 OOP- nr complexe\Proietul 5 OOP- nr complexe\bin\Debug\Proietul 5 OOP- nr complexe.pdb
+D:\z.semestrul 2\OOP\Proietul 5 OOP- nr complexe\Proietul 5 OOP- nr complexe\obj\Debug\Proietul 5 OOP- nr complexe.csprojAssemblyReference.cache
+D:\z.semestrul 2\OOP\Proietul 5 OOP- nr complexe\Proietul 5 OOP- nr complexe\obj\Debug\Proietul 5 OOP- nr complexe.csproj.CoreCompileInputs.cache
+D:\z.semestrul 2\OOP\Proietul 5 OOP- nr complexe\Proietul 5 OOP- nr complexe\obj\Debug\Proietul 5 OOP- nr complexe.exe
+D:\z.semestrul 2\OOP\Proietul 5 OOP- nr complexe\Proietul 5 OOP- nr complexe\obj\Debug\Proietul 5 OOP- nr complexe.pdb
