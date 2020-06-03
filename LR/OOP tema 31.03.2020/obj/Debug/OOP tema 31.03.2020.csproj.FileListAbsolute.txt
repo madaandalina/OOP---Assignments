@@ -1,0 +1,7 @@
+D:\sem 2\OOP\OOP tema 31.03.2020\OOP tema 31.03.2020\bin\Debug\OOP tema 31.03.2020.exe.config
+D:\sem 2\OOP\OOP tema 31.03.2020\OOP tema 31.03.2020\bin\Debug\OOP tema 31.03.2020.exe
+D:\sem 2\OOP\OOP tema 31.03.2020\OOP tema 31.03.2020\bin\Debug\OOP tema 31.03.2020.pdb
+D:\sem 2\OOP\OOP tema 31.03.2020\OOP tema 31.03.2020\obj\Debug\OOP tema 31.03.2020.csprojAssemblyReference.cache
+D:\sem 2\OOP\OOP tema 31.03.2020\OOP tema 31.03.2020\obj\Debug\OOP tema 31.03.2020.csproj.CoreCompileInputs.cache
+D:\sem 2\OOP\OOP tema 31.03.2020\OOP tema 31.03.2020\obj\Debug\OOP tema 31.03.2020.exe
+D:\sem 2\OOP\OOP tema 31.03.2020\OOP tema 31.03.2020\obj\Debug\OOP tema 31.03.2020.pdb
