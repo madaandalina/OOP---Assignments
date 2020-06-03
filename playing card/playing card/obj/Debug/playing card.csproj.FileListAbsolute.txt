@@ -1,0 +1,7 @@
+D:\z.semestrul 2\OOP\playing card\playing card\bin\Debug\playing card.exe.config
+D:\z.semestrul 2\OOP\playing card\playing card\bin\Debug\playing card.exe
+D:\z.semestrul 2\OOP\playing card\playing card\bin\Debug\playing card.pdb
+D:\z.semestrul 2\OOP\playing card\playing card\obj\Debug\playing card.csprojAssemblyReference.cache
+D:\z.semestrul 2\OOP\playing card\playing card\obj\Debug\playing card.csproj.CoreCompileInputs.cache
+D:\z.semestrul 2\OOP\playing card\playing card\obj\Debug\playing card.exe
+D:\z.semestrul 2\OOP\playing card\playing card\obj\Debug\playing card.pdb
